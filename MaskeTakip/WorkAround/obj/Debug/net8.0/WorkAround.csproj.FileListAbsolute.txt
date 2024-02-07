@@ -1,0 +1,14 @@
+C:\Users\Cem\Desktop\C#\5SaatlikCS\MaskeTakip\WorkAround\bin\Debug\net8.0\WorkAround.exe
+C:\Users\Cem\Desktop\C#\5SaatlikCS\MaskeTakip\WorkAround\bin\Debug\net8.0\WorkAround.deps.json
+C:\Users\Cem\Desktop\C#\5SaatlikCS\MaskeTakip\WorkAround\bin\Debug\net8.0\WorkAround.runtimeconfig.json
+C:\Users\Cem\Desktop\C#\5SaatlikCS\MaskeTakip\WorkAround\bin\Debug\net8.0\WorkAround.dll
+C:\Users\Cem\Desktop\C#\5SaatlikCS\MaskeTakip\WorkAround\bin\Debug\net8.0\WorkAround.pdb
+C:\Users\Cem\Desktop\C#\5SaatlikCS\MaskeTakip\WorkAround\obj\Debug\net8.0\WorkAround.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cem\Desktop\C#\5SaatlikCS\MaskeTakip\WorkAround\obj\Debug\net8.0\WorkAround.AssemblyInfoInputs.cache
+C:\Users\Cem\Desktop\C#\5SaatlikCS\MaskeTakip\WorkAround\obj\Debug\net8.0\WorkAround.AssemblyInfo.cs
+C:\Users\Cem\Desktop\C#\5SaatlikCS\MaskeTakip\WorkAround\obj\Debug\net8.0\WorkAround.csproj.CoreCompileInputs.cache
+C:\Users\Cem\Desktop\C#\5SaatlikCS\MaskeTakip\WorkAround\obj\Debug\net8.0\WorkAround.dll
+C:\Users\Cem\Desktop\C#\5SaatlikCS\MaskeTakip\WorkAround\obj\Debug\net8.0\refint\WorkAround.dll
+C:\Users\Cem\Desktop\C#\5SaatlikCS\MaskeTakip\WorkAround\obj\Debug\net8.0\WorkAround.pdb
+C:\Users\Cem\Desktop\C#\5SaatlikCS\MaskeTakip\WorkAround\obj\Debug\net8.0\WorkAround.genruntimeconfig.cache
+C:\Users\Cem\Desktop\C#\5SaatlikCS\MaskeTakip\WorkAround\obj\Debug\net8.0\ref\WorkAround.dll
