@@ -38,3 +38,8 @@ static int Topla()
 }
 int sonuc = Topla();
 
+static void SelamVer2(string isim = "Cem")
+{
+    Console.WriteLine("Merhaba " + isim);
+}
+SelamVer2();

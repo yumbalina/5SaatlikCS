@@ -12,3 +12,4 @@ C:\Users\Cem\Desktop\C#\5SaatlikCS\MaskeTakip\WorkAround\obj\Debug\net8.0\refint
 C:\Users\Cem\Desktop\C#\5SaatlikCS\MaskeTakip\WorkAround\obj\Debug\net8.0\WorkAround.pdb
 C:\Users\Cem\Desktop\C#\5SaatlikCS\MaskeTakip\WorkAround\obj\Debug\net8.0\WorkAround.genruntimeconfig.cache
 C:\Users\Cem\Desktop\C#\5SaatlikCS\MaskeTakip\WorkAround\obj\Debug\net8.0\ref\WorkAround.dll
+C:\Users\Cem\Desktop\C#\5SaatlikCS\MaskeTakip\WorkAround\obj\Debug\net8.0\WorkAround.sourcelink.json
