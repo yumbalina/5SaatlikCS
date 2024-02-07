@@ -1,45 +1,15 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using Business.Abstract;
+using Business.Concrete;
+using Entities.Concrete;
 using System.Runtime.InteropServices;
+using System.Text;
 
-//static void degiskenler()
-//{
-//    string mesaj = "Merhaba!";
-//    double tutar = 100000; //dbden gelir
-//    int sayi = 100;
-//    bool girisYapmisMi = false;
+Person person1 = new Person();
+person1.FirstName = "CEM";
+person1.LastName = "GÖRENER";
+person1.DateOfBirth = 1998;
+person1.NationalIdentity = 11111111111;
 
-//    string ad = "Engin";
-//    string soyad = "Demiroğ";
-//    int dogumYili = 1985;
-//    long tcNo = 11111111111;
-
-//    //Projeye Bagli
-//    Console.WriteLine(tutar * 1.18);
-//}
-//public class Vatandas
-//{
-//    public string Ad { get; set; }
-//    public string Soyad { get; set; }
-//    public int DogumYili { get; set; }
-//    public long TcNo { get; set; }
-//}
-
-//degiskenler();
-//Vatandas vatandas1 = new Vatandas();
-
-static void SelamVer() 
-{
-    Console.WriteLine("Merhaba!");
-}
-SelamVer();
-static int Topla()
-{
-    return 5;
-}
-int sonuc = Topla();
-
-static void SelamVer2(string isim = "Cem")
-{
-    Console.WriteLine("Merhaba " + isim);
-}
-SelamVer2();
+PttManager pttManager = new PttManager(new PersonManager());
+pttManager.GiveMask(person1);
